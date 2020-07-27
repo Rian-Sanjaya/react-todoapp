@@ -8,4 +8,4 @@ Can create, edit, delete Todo list
 
 2. type: npm install
 
-3. type: npm dev
+3. type: npm run dev
