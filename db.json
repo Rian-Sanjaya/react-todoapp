@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Input new todo above and enter",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Check in/out to complete/un-complete todo",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Remove todo by point and clicking the x icon",
+      "isComplete": false
+    },
+    {
+      "name": "Double Click to edit todo and enter",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "name": "2nd Todo",
+      "isComplete": false,
+      "id": 8
+    },
+    {
+      "name": " 3rd abc",
+      "isComplete": true,
+      "id": 9
+    }
+  ]
+}
